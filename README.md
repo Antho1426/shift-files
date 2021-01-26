@@ -2,6 +2,8 @@
 Simple Python program used to shift files from a "source folder" to a
 "destination folder" for storage.
 
+<img src="shift-files-icon.png" alt="shif-files-icon-png" style="width: 320px;"/>
+
 ## Table of contents
 * [1. Description](#1-description)
 * [2. Getting started](#2-getting-started)
