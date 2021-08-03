@@ -2,7 +2,9 @@
 Simple Python program used to shift files from a "source folder" to a
 "destination folder" for storage.
 
-<img src="shift-files-icon.png" alt="shif-files-icon-png" style="width: 320px;"/>
+<p align="center">
+	<img src="shift-files-icon.png" alt="shif-files-icon-png" style="width: 320px;"/>
+</p>
 
 ## Table of contents
 * [1. Description](#1-description)
@@ -81,7 +83,7 @@ destination folders by specifying their absolute path:
 
 Example:
 
-`python3.7 shift_files.py --src /Users/anthony/Dropbox/Camera Uploads/_PC-ALL-MY-FILES-Cloned-Structure --dest /Volumes/Elements4TB/_PC-ALL-MY-FILES`
+	`python3.7 shift_files.py --src /Users/anthony/Dropbox/Camera Uploads/_PC-ALL-MY-FILES-Cloned-Structure --dest /Volumes/Elements4TB/_PC-ALL-MY-FILES`
 
 ## 3. Version history
 * 0.1
